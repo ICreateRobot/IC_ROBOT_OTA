@@ -1,0 +1,14 @@
+{
+  "pyota.py": {
+    "url": "https://raw.githubusercontent.com/Starrynight252/IC_ROBOT_OTA/dev/micropython/pyota.py",
+    "version": "v0.0.1"
+  },
+  "main.py": {
+    "url": "https://raw.githubusercontent.com/Starrynight252/IC_ROBOT_OTA/dev/micropython/main.py",
+    "version": "v0.0.1"
+  },
+  "utils.py": {
+    "url": "https://raw.githubusercontent.com/Starrynight252/IC_ROBOT_OTA/dev/micropython/utils.py",
+    "version": "v0.0.1"
+  }
+}
