@@ -3,7 +3,7 @@ import os
 
 # 配置
 VERSION_FILE_PATH = "version"  # 存储本地版本号的目录
-VERSION_JSON_URL = "http://192.168.237.122:1080/espbin/version.json"
+VERSION_JSON_URL = "https://github.com/Starrynight252/IC_ROBOT_OTA/blob/main/version.json"
 
 # 确保版本目录存在
 def ensure_version_dir():
