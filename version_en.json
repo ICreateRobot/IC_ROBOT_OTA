@@ -16,8 +16,8 @@
     "version": "v0.0.2"
   },
   "stm32_firmware.bin": {
-    "url": "https://raw.githubusercontent.com/Starrynight252/IC_ROBOT_OTA/dev/stm32/STM32.bin",
+    "url": "https://raw.githubusercontent.com/Starrynight252/IC_ROBOT_OTA/dev/stm32/ICRbot_STM32.bin",
     "version": "v0.0.1",
-    "size": 66840
+    "size": 69952
   }
 }
