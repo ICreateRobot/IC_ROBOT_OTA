@@ -13,11 +13,11 @@
   },
   "esp32s3_firmware.bin": {
     "url": "https://gitee.com/starry-night_mc/ic_-robot_-ota1/raw/main/eps32s3/micropython_0.0.2.bin",
-    "version": "v0.0.2"
+    "version": "v0.0.1"
   },
   "stm32_firmware.bin": {
     "url": "https://gitee.com/starry-night_mc/ic_-robot_-ota1/raw/main/stm32/ICRbot_STM32_1.0.0.bin",
-    "version": "v1.2.0",
+    "version": "v1.1.0",
     "size": 69824
   }
 }
