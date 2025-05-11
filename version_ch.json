@@ -17,7 +17,7 @@
   },
   "stm32_firmware.bin": {
     "url": "https://gitee.com/starry-night_mc/ic_-robot_-ota1/raw/main/stm32/ICRobot_STM32_1.1.0.bin",
-    "version": "v0.0.1",
-    "size": 69952
+    "version": "v1.1.0",
+    "size": 69832
   }
 }
