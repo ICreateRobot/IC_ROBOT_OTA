@@ -1,4 +1,5 @@
 {
+  "priority": 4,
   "pyota.py": {
     "url": "https://gitee.com/starry-night_mc/ic_-robot_-ota1/raw/main/micropython/pyota.py",
     "version": "v0.0.2"
