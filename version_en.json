@@ -13,7 +13,7 @@
     "version": "v0.0.1"
   },
   "esp32s3_firmware.bin": {
-    "url": "https://github.com/Starrynight252/IC_ROBOT_OTA/raw/refs/heads/main/eps32s3/micropython_0.0.1.bin",
+    "url": "https://github.com/Starrynight252/IC_ROBOT_OTA/raw/refs/heads/main/esp32s3/micropython_0.0.1.bin",
     "version": "v0.0.1",
     "size": 0
   },
