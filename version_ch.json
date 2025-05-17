@@ -1,20 +1,12 @@
 {
   "priority": 4,
-  "pyota.py": {
-    "url": "https://gitee.com/starry-night_mc/ic_-robot_-ota1/raw/main/micropython/pyota.py",
-    "version": "v0.0.1"
-  },
   "main.py": {
     "url": "https://gitee.com/starry-night_mc/ic_-robot_-ota1/raw/main/micropython/main.py",
-    "version": "v0.0.1"
-  },
-  "utils.py": {
-    "url": "https://gitee.com/starry-night_mc/ic_-robot_-ota1/raw/main/micropython/utils.py",
-    "version": "v0.0.1"
+    "version": "v0.1.0"
   },
   "esp32s3_firmware.bin": {
-    "url": "https://gitee.com/starry-night_mc/ic_-robot_-ota1/raw/main/esp32s3/micropython_0.0.1.bin",
-    "version": "v0.0.1",
+    "url": "https://gitee.com/starry-night_mc/ic_-robot_-ota1/raw/main/esp32s3/micropython.bin",
+    "version": "v0.1.0",
     "size": 5529760
   },
   "stm32_firmware.bin": {
