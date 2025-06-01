@@ -1,16 +1,24 @@
 {
-  "main.py": {
-    "url": "https://raw.githubusercontent.com/Starrynight252/IC_ROBOT_OTA/dev/micropython/main.py",
-    "version": "v0.0.1"
+  "main_new.py": {
+    "url": "https://raw.githubusercontent.com/ICreateRobot/IC_ROBOT_OTA/refs/heads/main/micropython/main_new.py",
+    "version": "v1.0.0"
+  },
+  "icrobot_new.mpy": {
+    "url": "https://raw.githubusercontent.com/ICreateRobot/IC_ROBOT_OTA/refs/heads/main/micropython/icrobot_new.mpy",
+    "version": "v1.0.0"
+  },
+  "module_new.mpy": {
+    "url": "https://raw.githubusercontent.com/ICreateRobot/IC_ROBOT_OTA/refs/heads/main/micropython/module_new.mpy",
+    "version": "v1.0.0"
   },
   "esp32s3_firmware.bin": {
-    "url": "https://github.com/Starrynight252/IC_ROBOT_OTA/raw/refs/heads/main/esp32s3/micropython.bin",
-    "version": "v0.0.2",
-    "size": 0
+    "url": "https://raw.githubusercontent.com/ICreateRobot/IC_ROBOT_OTA/refs/heads/main/esp32s3/micropython.bin",
+    "version": "v1.0.0",
+    "size": 4338800 
   },
   "stm32_firmware.bin": { 
-    "url": "https://github.com/Starrynight252/IC_ROBOT_OTA/raw/refs/heads/main/stm32/ICRobot_STM32_1.1.0.bin",
-    "version": "v1.1.00",
-    "size": 0
+    "url": "https://raw.githubusercontent.com/ICreateRobot/IC_ROBOT_OTA/refs/heads/main/stm32/ICRobot_Master-STM32_V1.0.0.bin",
+    "version": "v1.0.0",
+    "size": 73280
   }
 }
