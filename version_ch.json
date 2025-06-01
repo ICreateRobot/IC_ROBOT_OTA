@@ -1,17 +1,16 @@
 {
-  "priority": 4,
   "main.py": {
-    "url": "https://gitee.com/starry-night_mc/ic_-robot_-ota1/raw/main/micropython/main.py",
-    "version": "v0.1.0"
+    "url": "https://publicoss.icrobot.com/www/file/06698b40-5c5f-4c3b-9641-185ea9094ea2.py",
+    "version": "v1.0.0"
   },
   "esp32s3_firmware.bin": {
-    "url": "https://gitee.com/starry-night_mc/ic_-robot_-ota1/raw/main/esp32s3/micropython.bin",
-    "version": "v0.1.0",
-    "size": 5529760
+    "url": "https://publicoss.icrobot.com/www/file/cf1a7103-0b43-4502-b41e-c69186102acc.bin",
+    "version": "v1.0.0",
+    "size": 4338800 
   },
   "stm32_firmware.bin": {
-    "url": "https://gitee.com/starry-night_mc/ic_-robot_-ota1/raw/main/stm32/ICRobot_STM32_1.1.0.bin",
-    "version": "v1.1.00",
-    "size": 69824
+    "url": "https://publicoss.icrobot.com/www/file/b4f82783-4317-49a4-9f05-d24c315968b9.bin",
+    "version": "v1.0.0",
+    "size": 73280
   }
 }
