@@ -1,15 +1,23 @@
 {
-  "main.py": {
-    "url": "https://publicoss.icrobot.com/www/file/06698b40-5c5f-4c3b-9641-185ea9094ea2.py",
+  "main_new.py": {
+    "url": "https://arkt-advert.oss-cn-beijing.aliyuncs.com/www/IC_ROBOT_OTA/micropython/main_new.py",
+    "version": "v1.0.0"
+  },
+  "icrobot_new.mpy": {
+    "url": "https://arkt-advert.oss-cn-beijing.aliyuncs.com/www/IC_ROBOT_OTA/micropython/icrobot_new.mpy",
+    "version": "v1.0.0"
+  },
+  "module_new.mpy": {
+    "url": "https://arkt-advert.oss-cn-beijing.aliyuncs.com/www/IC_ROBOT_OTA/micropython/module_new.mpy",
     "version": "v1.0.0"
   },
   "esp32s3_firmware.bin": {
-    "url": "https://publicoss.icrobot.com/www/file/cf1a7103-0b43-4502-b41e-c69186102acc.bin",
+    "url": "https://arkt-advert.oss-cn-beijing.aliyuncs.com/www/IC_ROBOT_OTA/esp32s3/micropython.bin",
     "version": "v1.0.0",
     "size": 4338800 
   },
-  "stm32_firmware.bin": {
-    "url": "https://publicoss.icrobot.com/www/file/b4f82783-4317-49a4-9f05-d24c315968b9.bin",
+  "stm32_firmware.bin": { 
+    "url": "https://arkt-advert.oss-cn-beijing.aliyuncs.com/www/IC_ROBOT_OTA/stm32/ICRobot_Master-STM32_V1.0.0.bin",
     "version": "v1.0.0",
     "size": 73280
   }

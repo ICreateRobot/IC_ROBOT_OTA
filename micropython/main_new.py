@@ -34,6 +34,7 @@ def execute_file(filename):
 
 def power_callback(pin):
     if power.value() == 0:
+        icrobot.ota_quit = True
         icrobot.mode_flag = True
         icrobot.file_start_flag = not icrobot.file_start_flag
     if power.value() == 1:
@@ -252,6 +253,7 @@ if __name__ == '__main__':
                         icrobot.stop_execution(1)
                         icrobot.start = False
                         icrobot.file_start_flag = False
+                        ble = icrobot.ESP32S3_BLE(str(icrobot.wifi.chip_id[-4:]))
                     else:
                         file_id = _thread.start_new_thread(execute_file, (file_path,),6*1024)
                         icrobot.start = True
